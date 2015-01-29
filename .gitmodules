@@ -1,0 +1,3 @@
+[submodule "a/libB"]
+	path = a/libB
+	url = git@github.com:chevcat/HelloGit.git
