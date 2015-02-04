@@ -1,4 +1,0 @@
-[submodule "b/LibA"]
-	path = b/LibA
-	url = git@github.com:chevcat/TestLibA.git
-	branch = LibA
