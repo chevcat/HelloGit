@@ -1,0 +1,3 @@
+[submodule "lib/lib2"]
+	path = lib/lib2
+	url = git@github.com:chevcat/TestLibA.git
